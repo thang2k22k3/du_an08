@@ -1,0 +1,21 @@
+{
+  "name": "demo-du_an08pro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss:assets/css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thang2k22k3/du_an08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thang2k22k3/du_an08/issues"
+  },
+  "homepage": "https://github.com/thang2k22k3/du_an08#readme",
+  "description": ""
+}
